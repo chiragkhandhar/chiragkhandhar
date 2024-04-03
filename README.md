@@ -15,15 +15,15 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap:wrap; gap:1rem;">
-    <div style="display:flex; flex-direction:column; width: 20rem;">
+    <div style="display:flex; flex-direction:column;">
         <h3>Main Account</h3>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragkhandhar&theme=whatsapp-dark2&locale=en&border_radius=8&exclude_days=sat,sun&excludeDaysLabel=grey" alt="Streak" />
     </div>
-     <div style="display:flex; flex-direction:column; width: 20rem;">
+     <div style="display:flex; flex-direction:column;">
         <h3>Egen</h3>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragkhandhar-egen&theme=whatsapp-dark2&locale=en&border_radius=8&exclude_days=sat,sun&excludeDaysLabel=grey" alt="Streak" />
     </div>
-     <div style="display:flex; flex-direction:column; width: 20rem;">
+     <div style="display:flex; flex-direction:column;">
         <h3>Drivetime (2021-2022)</h3>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag-khandhar&theme=whatsapp-dark2&locale=en&border_radius=8&exclude_days=sat,sun&excludeDaysLabel=grey" alt="Streak" />
     </div>
