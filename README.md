@@ -1,4 +1,4 @@
-### Hi there 👋
+![gh header](https://github.com/chiragkhandhar/chiragkhandhar/assets/37962354/d72e6eac-d141-4289-b14a-cc430dfb082b)
 
 I am a performance-driven and motivated Software Engineer with almost 4 years of experience in participating in all phases of SDLC. I collaborate with product managers, owners, designers, developers, QA, and DevOps throughout the product life-cycle to build high-quality, user-friendly, and scalable software systems.
 
