@@ -12,7 +12,7 @@ I am a performance-driven and motivated Software Engineer with almost 4 years of
 
 | Organization                    | Projects                                         | Tech Stack                                                                                      |
 | ------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| **Tempus AI**                   | Curation Platform Initiative                     | NestJS, React, PostgreSQL, TypeORM, GCP                                                         |
+| **Tempus AI**                   | Curation Platform Initiative                     | NestJS, React, Redux, PostgreSQL, TypeORM, Docker, GCP                                                  |
 |                                 | Reporting Pipleline Prod Support                 | AdonisJS, NestJS, React, TypeORM, MySQL, PostgreSQL, SQS/SNS, Concourse CI, Splunk, Docker, GCP |
 | **Egen**                        | Multimodal Recommendation Engine                 | Flutter, Dart, Flask, Google Gemini Pro, App Store Connect, TestFlight, GCP                     |
 |                                 | Document Search                                  | Angular, NgRX, Flask, Google Gemini Pro, Docker, GCP                                            |
