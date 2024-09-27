@@ -1,6 +1,8 @@
 ![gh header](https://github.com/chiragkhandhar/chiragkhandhar/assets/37962354/d72e6eac-d141-4289-b14a-cc430dfb082b)
 
-I am a performance-driven and motivated Software Engineer with almost 4 years of experience in participating in all phases of SDLC. I collaborate with product managers, owners, designers, developers, QA, and DevOps throughout the product life-cycle to build high-quality, user-friendly, and scalable software systems.
+I am a performance-driven Software Engineer with 4 years of experience across the entire software development lifecycle (SDLC). I collaborate closely with product managers, designers, developers, and DevOps teams to build scalable, high-quality software solutions.
+
+I thrive in agile environments, contributing from initial requirements gathering to post-production reliability and optimization.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chiragkhandhar&label=Profile%20Impressions&color=brightgreen&style=flat" alt="chiragkhandhar" />
@@ -12,7 +14,7 @@ I am a performance-driven and motivated Software Engineer with almost 4 years of
 
 | Organization                    | Projects                                         | Tech Stack                                                                                      |
 | ------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| **Tempus AI**                   | Curation Platform Initiative                     | NestJS, React, Redux, PostgreSQL, TypeORM, Docker, Okta Auth, GCP                                                  |
+| **Tempus AI**                   | Clinical Science Curation Platform (CSCP)        | NestJS, React, Redux, PostgreSQL, TypeORM, Docker, Okta Auth, Jest, GCP                         |
 |                                 | Reporting Pipleline Prod Support                 | AdonisJS, NestJS, React, TypeORM, MySQL, PostgreSQL, SQS/SNS, Concourse CI, Splunk, Docker, GCP |
 | **Egen**                        | Multimodal Recommendation Engine                 | Flutter, Dart, Flask, Google Gemini Pro, App Store Connect, TestFlight, GCP                     |
 |                                 | Document Search                                  | Angular, NgRX, Flask, Google Gemini Pro, Docker, GCP                                            |
