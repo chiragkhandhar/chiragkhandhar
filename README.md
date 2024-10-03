@@ -15,9 +15,9 @@ I thrive in agile environments, contributing from initial requirements gathering
 | Organization                    | Projects                                         | Tech Stack                                                                                      |
 | ------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
 | **Tempus AI**                   | Clinical Science Curation Platform (CSCP)        | NestJS, React, Redux, PostgreSQL, TypeORM, Docker, Okta Auth, Jest, GCP                         |
-|                                 | Reporting Pipleline Prod Support                 | AdonisJS, NestJS, React, TypeORM, MySQL, PostgreSQL, SQS/SNS, Concourse CI, Splunk, Docker, GCP |
-| **Egen**                        | Multimodal Recommendation Engine                 | Flutter, Dart, Flask, Google Gemini Pro, App Store Connect, TestFlight, GCP                     |
-|                                 | Document Search                                  | Angular, NgRX, Flask, Google Gemini Pro, Docker, GCP                                            |
+|                                 | Reporting Pipeline Prod Support                  | AdonisJS, NestJS, React, TypeORM, MySQL, PostgreSQL, SQS/SNS, Concourse CI, Splunk, Docker, GCP |
+| **Egen**                        | Retail Recommendation Engine                     | Flutter, Dart, Flask, Google Gemini Pro, App Store Connect, TestFlight, GCP                     |
+|                                 | Document Intelligence                            | Angular, NgRX, Flask, Google Gemini Pro, Docker, GCP                                            |
 | **Integra Connect**             | Estera EHR                                       | Angular, RxJS, NgRX, JEST, Azure                                                                |
 | **Drive Time**                  | Bridgecrest Payments Platform                    | Ionic, Angular, Apollo, GraphQL, CyPress, Jasmine, Azure, Splunk, Launch Darkly                 |
 | **Argonne National Laboratory** | Wildfire Data Warehouse & Visualization Platform | LeafletJS, MapboxGL, Flask, EC2, Docker, Figma                                                  |
