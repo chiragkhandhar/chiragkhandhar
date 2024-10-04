@@ -14,7 +14,7 @@ I thrive in agile environments, contributing from initial requirements gathering
 
 | Organization                    | Projects                                         | Tech Stack                                                                                      |
 | ------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| **Tempus AI**                   | Clinical Science Curation Platform (CSCP)        | NestJS, React, Redux, PostgreSQL, TypeORM, Docker, Okta Auth, Jest, GCP                         |
+| **Tempus AI**                   | Clinical Science Curation Platform (CSCP)        | NestJS, React, Redux, PostgreSQL, TypeORM, Docker, Okta Auth, Jest, GCP, Terraform              |
 |                                 | Reporting Pipeline Prod Support                  | AdonisJS, NestJS, React, TypeORM, MySQL, PostgreSQL, SQS/SNS, Concourse CI, Splunk, Docker, GCP |
 | **Egen**                        | Retail Recommendation Engine                     | Flutter, Dart, Flask, Google Gemini Pro, App Store Connect, TestFlight, GCP                     |
 |                                 | Document Intelligence                            | Angular, NgRX, Flask, Google Gemini Pro, Docker, GCP                                            |
@@ -28,7 +28,7 @@ I thrive in agile environments, contributing from initial requirements gathering
 
 <div align="center">
   <a href="https://www.linkedin.com/in/chirag-khandhar/">
-    <img src="https://skillicons.dev/icons?i=ts,js,angular,react,redux,flutter,nodejs,express,adonis,nest,java,python,dart,html,css,sass,mysql,postgres,mongodb,apollo,graphql,cypress,jest,docker,gcp,azure,postman,androidstudio,github,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,angular,react,redux,reactivex,flutter,nodejs,express,adonis,nest,java,python,dart,html,md,css,sass,mysql,postgres,mongodb,apollo,graphql,cypress,jest,docker,terraform,gcp,azure,git,vscode,postman,androidstudio,figma&theme=light" />
   </a>
 </div>
 
