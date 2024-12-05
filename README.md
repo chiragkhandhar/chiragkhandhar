@@ -14,7 +14,7 @@ I thrive in agile environments, contributing from initial requirements gathering
 
 | Organization                    | Projects                                         | Tech Stack                                                                                      |
 | ------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| **Tempus AI**                   | Clinical Science Curation Platform (CSCP)        | NestJS, React, Redux, PostgreSQL, TypeORM, Docker, Okta Auth, Jest, GCP, Terraform              |
+| **Tempus AI**                   | Clinical Science Curation Platform (CSCP)        | NestJS, React, Redux, MobX, PostgreSQL, TypeORM, Docker, Okta Auth, Jest, GCP, Terraform        |
 |                                 | Reporting Pipeline Prod Support                  | AdonisJS, NestJS, React, TypeORM, MySQL, PostgreSQL, SQS/SNS, Concourse CI, Splunk, Docker, GCP |
 | **Egen**                        | Retail Recommendation Engine                     | Flutter, Dart, Flask, Google Gemini Pro, App Store Connect, TestFlight, GCP                     |
 |                                 | Document Intelligence                            | Angular, NgRX, Flask, Google Gemini Pro, Docker, GCP                                            |
