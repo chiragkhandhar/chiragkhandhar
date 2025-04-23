@@ -33,16 +33,4 @@ I thrive in agile environments, contributing from initial requirements gathering
   </a>
 </div>
 
-<h3 align="left">📊 GitHub Stats:</h3>
 
-<div align="center">
-
-|                                                                                   Main Account                                                                                   |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Main Account](https://github-readme-streak-stats.herokuapp.com/?user=chiragkhandhar&theme=whatsapp-dark2&locale=en&border_radius=8&exclude_days=sat,sun&excludeDaysLabel=grey) |
-
-|                                                                                     Egen                                                                                      |                                                                                    DriveTime (2021-22)                                                                                     |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Egen](https://github-readme-streak-stats.herokuapp.com/?user=chiragkhandhar-egen&theme=whatsapp-dark2&locale=en&border_radius=8&exclude_days=sat,sun&excludeDaysLabel=grey) | ![Drivetime (2021-2022)](https://github-readme-streak-stats.herokuapp.com/?user=chirag-khandhar&theme=whatsapp-dark2&locale=en&border_radius=8&exclude_days=sat,sun&excludeDaysLabel=grey) |
-
-</div>
