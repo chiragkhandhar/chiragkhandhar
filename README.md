@@ -1,7 +1,7 @@
 ![GH Banner](https://github.com/user-attachments/assets/da2966a5-10c2-4842-9608-d957ff5a2128)
 
 
-I am a performance-driven Software Engineer with 4.5 years of experience across the entire software development lifecycle (SDLC). I collaborate closely with product managers, designers, developers, and DevOps teams to build scalable, high-quality software solutions.
+I am a performance-driven Software Engineer with 5.5 years of experience across the entire software development lifecycle (SDLC). I collaborate closely with product managers, designers, developers, and DevOps teams to build scalable, high-quality software solutions.
 
 I thrive in agile environments, contributing from initial requirements gathering to post-production reliability and optimization.
 
