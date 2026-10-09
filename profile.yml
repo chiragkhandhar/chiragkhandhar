@@ -1,0 +1,106 @@
+# Single source of truth for the GitHub profile README.
+# Edit this file, then run `npm run render` (CI also does it on push).
+# Any string starting with "TODO" is skipped when rendering.
+
+name: Chirag Khandhar
+title: Senior Software Engineer
+company: Egen
+client: Tempus AI # current engagement; shown as "currently with …"
+headline: Platform engineering · Agentic SDLC · Full-stack
+career_start: 2020-06 # matches "6+ years" on LinkedIn
+
+banner:
+  light: https://github.com/user-attachments/assets/da2966a5-10c2-4842-9608-d957ff5a2128
+  dark: https://github.com/user-attachments/assets/da2966a5-10c2-4842-9608-d957ff5a2128
+
+links:
+  LinkedIn: https://www.linkedin.com/in/chirag-khandhar/
+  Email: TODO mailto:you@example.com
+  Website: TODO https://example.com
+
+# Render order. Remove a name to hide a section; add a file in scripts/sections/ to create one.
+sections: [header, about, pillars, impact, experience, toolbox, currently]
+
+# {years} is replaced with the computed years of experience. Blank line = new paragraph.
+about: |-
+  Senior software engineer with {years}+ years of experience building web, mobile, and data platforms
+  across GCP and AWS, mostly in highly regulated domains: healthcare, genomics pipelines, EHR systems,
+  and enterprise retail.
+
+  I like working close to the product and the customer, turning ambiguous problems into scalable,
+  reliable software that is maintainable, secure, and built for real-world use. I use AI tools and
+  agentic workflows to move faster while staying hands-on with system design, edge cases, and code quality.
+
+pillars:
+  - title: System design & architecture
+    proof: Service boundaries, integrations, data modeling and scalability trade-offs for clinical and genomics data platforms.
+  - title: Cloud platform & production reliability
+    proof: GCP (GKE, Cloud SQL, BigQuery, Cloud Storage, Logs Explorer) and AWS, IaC, CI/CD, and production support for a genomics reporting pipeline.
+  - title: AI-native software delivery
+    proof: Claude Code is my daily engineering environment across multiple production services, taking work from Jira ticket to spec, implementation plan, test-driven build, AI code review and staging test plan, with Jira/Confluence wired in via MCP and AI-authored code tracked per commit. I built a full multi-ticket HL7 integration epic this way, use it for clinical-genomics feasibility research, and have shipped Gemini-powered products.
+  - title: Full-stack product engineering
+    proof: Web, mobile and data products with React, Angular, NestJS and Flutter across healthcare, EHR, fintech, retail and research.
+  - title: Technical leadership & mentorship
+    proof: TODO e.g. Led design reviews / RFCs, mentored N engineers, drove cross-team initiatives.
+
+impact:
+  - TODO e.g. Reduced reporting-pipeline incidents by X% by adding observability and retries.
+  - TODO e.g. Cut BigQuery/GCP cost by $X/month via query and storage optimization.
+  - TODO e.g. Designed the CSCP curation workflow used by N scientists daily.
+
+# Employers in reverse order. `engagements` lists the products/teams you worked on there.
+# Write outcomes, not tech stacks (the Toolbox covers tech): verb + what + result, ideally with a number.
+experience:
+  - org: Egen
+    title: Senior Software Engineer
+    current: true
+    engagements:
+      - client: Tempus AI
+        current: true
+        highlights:
+          - Built and shipped core features of the Clinical Science Curation Platform, which clinical scientists use to curate clinical data.
+          - Kept the genomics reporting pipeline reliable in production by triaging incidents and fixing root causes across its services.
+      - client: Integra Connect
+        summary: Delivered features for Estera, Integra Connect's EHR platform.
+      - client: DriveTime
+        summary: Built the Bridgecrest payments app that lets customers manage and pay their auto loans.
+      - client: Generative AI products
+        summary: Shipped a Gemini-powered retail recommendation app to the App Store and built a Gemini-powered document-intelligence platform.
+  - org: Argonne National Laboratory
+    summary: Built a wildfire data warehouse and interactive map visualizations for researchers.
+  - org: Script Health
+    summary: Built full-stack features for Scripted, Script Health's web app.
+
+# Each group is a plain list of skills; add or rename groups freely.
+toolbox:
+  Languages: [TypeScript, JavaScript, Python, Java, SQL, GraphQL, Dart]
+  Frontend & Mobile: [React, Redux, MobX, Angular, RxJS, NgRx, Flutter, Ionic]
+  Backend & APIs: [Node.js, NestJS, Express, AdonisJS, Flask, Apollo]
+  AI Tooling:
+    [
+      Claude,
+      Cursor,
+      Copilot,
+      Google Gemini Enterprise,
+      Opencode,
+      Agentic SDLC workflows,
+    ]
+  Data & GIS:
+    [PostgreSQL, MySQL, MongoDB, BigQuery, KQL, TypeORM, Mapbox GL, Leaflet]
+  Cloud:
+    [GCP, GKE, Cloud SQL, Cloud Storage, Logs Explorer, AWS, Azure, SQS/SNS]
+  DevOps & Observability:
+    [
+      Docker,
+      Kubernetes,
+      Terraform,
+      GitHub Actions,
+      Concourse CI,
+      Splunk,
+      LaunchDarkly,
+    ]
+  Testing: [Jest, Cypress, Pytest, Jasmine, Postman]
+
+currently:
+  - TODO 🔭 Building …
+  - TODO 🌱 Learning …
